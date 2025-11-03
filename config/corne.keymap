@@ -61,7 +61,7 @@
 
         layer_3 {
             bindings = <
-&kp NUMBER_4      &kp ESCAPE      &kp Q  &kp W  &kp E         &kp R        &kp U      &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &none  &kp BACKSPACE
+&kp NUMBER_4      &kp ESCAPE      &kp Q  &kp W  &kp E         &kp R        &kp T      &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &none  &kp BACKSPACE
 &kp NUMBER_5      &kp TAB         &kp A  &kp S  &kp D         &kp F        &none      &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &none  &none
 &kp LEFT_CONTROL  &kp LEFT_SHIFT  &kp Z  &kp X  &kp C         &kp V        &kp DOT    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &none  &kp RWIN
                                          &kp M  &kp NUMBER_3  &kp SPACE    &kp ENTER  &kp NUMBER_0  &trans
